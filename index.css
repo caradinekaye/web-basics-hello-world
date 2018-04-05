@@ -1,6 +1,11 @@
+.container {
+  padding: 10%;
+}
+
 .purple {
   /* TODO: Add some style definitions for the purple class in here... */
-  colour: purple;
+  color: #D8BFD8;
+  margin-bottom: 10px;
 }
 
 /* #answer-display will have black text on a white background.
