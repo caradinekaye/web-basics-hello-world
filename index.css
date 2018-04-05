@@ -8,6 +8,10 @@
   margin-bottom: 10px;
 }
 
+img {
+  width: 5%;
+  height: auto;
+}
 /* #answer-display will have black text on a white background.
    Hovering the mouse over it will reveal the text */
 #answer-display {
