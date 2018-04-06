@@ -8,10 +8,8 @@ $(function() {
   // console.log will log a message or object to the browser developer console
   console.log("page loaded...");
 
-  $("button").click(function(){
-    /* $(this).hide(); */
-    $("#results-area").toggle();
-  }/* function for when the button is clicked goes here */);
+  $("selector-goes-here").click(/* function for when the button is clicked goes here */);
+
   /*
    * TODO: You will need to use a css selector to get jQuery to find the button element in the page
    * Then you will need to make a new javascript function to do stuff for when the button
