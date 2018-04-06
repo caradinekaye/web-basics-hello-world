@@ -10,7 +10,7 @@ $(function() {
 
   $("button").click(function(){
     /* $(this).hide(); */
-    $("p").toggle();
+    $("#results-area").toggle();
   }/* function for when the button is clicked goes here */);
   /*
    * TODO: You will need to use a css selector to get jQuery to find the button element in the page
